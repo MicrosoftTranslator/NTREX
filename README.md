@@ -1,4 +1,4 @@
 # NTREX
 NTREX -- News Test References for MT Evaluation
 
-Data package will be released on 11/22/2022.
+Data package has been released on 11/24/2022. Enjoy!
