@@ -1,6 +1,12 @@
 # NTREX
-NTREX -- News Test References for MT Evaluation from English into a total of 128 target languages. 
+NTREX -- News Test References for MT Evaluation from English into a total of 128 target languages with document-level information.
 
+## Data structure
+
+`NTREX-128/newstest2019-src.eng.txt` - original source data
+`NTREX-128/newstest2019-ref.*` - human translated references
+`LANGUAGES.tsv` - mapping between ISO codes and language names
+`DOCUMENT_IDS.tsv` - line aligned document boundaries
 
 ## Updates
 Data package has been released on 11/24/2022. Enjoy!
