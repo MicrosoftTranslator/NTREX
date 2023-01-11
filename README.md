@@ -1,5 +1,6 @@
 # NTREX
-NTREX -- News Test References for MT Evaluation
+NTREX -- News Test References for MT Evaluation from English into a total of 128 target languages. 
+
 
 ## Updates
 Data package has been released on 11/24/2022. Enjoy!
